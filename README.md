@@ -2,6 +2,7 @@
 Hospital-Emergency-Patient-Flow-Dashboard
 ![ED capture](https://github.com/raviishah/Hospital-Emergency-Patient-Flow-Dashboard/assets/102879445/a953681c-8bf7-4aaa-b8e4-a07301fd72ee)
 Welcome to the Hospital Emergency Patient Flow Dashboard documentation. This readme provides an overview of the key features, visualizations, and steps to create and interpret the dashboard.
+<br>
 **Table of Contents**
 •	Introduction
 •	Key Metrics
