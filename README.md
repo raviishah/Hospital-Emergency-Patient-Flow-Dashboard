@@ -10,8 +10,10 @@ Welcome to the Hospital Emergency Patient Flow Dashboard documentation. This rea
 •	Steps to Create
 •	Interpreting the Dashboard
 •	Filters
+<br>
 **Introduction**
 The Hospital Emergency Patient Flow Dashboard is a comprehensive tool that provides insights into the patient flow within the Emergency Room (ER) of the hospital. This dashboard aims to assist hospital administrators, medical staff, and stakeholders in making informed decisions to optimize patient care and resource allocation.
+<br>
 **Key Metrics**
 The dashboard presents the following key metrics:
 1.	Total Number of Patients Visiting ER: Displays the overall count of patients who have visited the ER during a selected date range.
@@ -21,6 +23,7 @@ The dashboard presents the following key metrics:
 5.	Patient Race: Provides insights into the distribution of patients based on their race.
 6.	Activity Heat Map: Displays a heatmap showcasing the busiest hours and days of the week in the ER. The heatmap is color-coded using a gradient scale to highlight the level of activity.
 7.	Total Number of Referrals Received: Presents the total count of referrals received specifically for emergency cases.
+<br>
 **Visualizations**
 The dashboard includes the following visualizations:
 •	Total Patients: Displays the total number of patients visiting the ER.
@@ -31,6 +34,7 @@ The dashboard includes the following visualizations:
 •	Patient Race Distribution: Provides insights into the distribution of patients based on their race.
 •	Activity Heat Map: A heatmap highlighting the busiest hours and days.
 •	Total Referrals: Displays the count of referrals received for emergency cases.
+<br>
 **Steps to Create**
 1.	Data Source: Connect the dashboard to the hospital's ER database.
 2.	Total Patients: Create a card visualization with the total patient count.
@@ -41,6 +45,7 @@ The dashboard includes the following visualizations:
 7.	Patient Race Distribution: Present patient race distribution data.
 8.	Activity Heat Map: Use time-based data to create a heatmap showcasing ER activity.
 9.	Total Referrals: Create a card visualization with the referral count.
+<br>
 **Interpreting the Dashboard**
 •	A higher "Total Patients" count might indicate seasonal trends or an unusually busy period.
 •	A longer "Average Wait Time" could signify potential issues in managing patient inflow.
@@ -49,6 +54,7 @@ The dashboard includes the following visualizations:
 •	"Gender Distribution" and "Patient Race Distribution" offer insights into the hospital's patient diversity.
 •	The "Activity Heat Map" assists in allocating resources effectively during busy hours.
 •	"Total Referrals" indicates the volume of emergency cases referred to the ER.
+<br>
 **Filters**
 The dashboard offers slicers on the left side pane to filter:
 •	Visit Date Range: Filter data by selecting a specific date range.
